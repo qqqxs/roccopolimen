@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Rocco Polimeni** and I am working as a **SDE Intern @ Amazon Web Services (AWS)** within the Commerce Platform. I have been working with this team for two summers and have been primarily working on **Fullstack, Serverless Webapps** where I use AWS Cloud Development Kit (CDK) to implement Infrastructure as Code, Typescript + React for the frontend, and Java + Dagger for backend lambda functions. Recently, in May 2022 I graduated first in class with my B.S. in Computer Science from Stevens Institute of Technology. I have started an Accelerated Masters Program at Stevens, where I will be graduating with an M.S. in Machine Learning in May 2023.
+My name is **Rocco Polimeni** and I am working as a **SDE @ Amazon Web Services (AWS)** and as an **Adjunct Professor of Computer Science at Stevens Institute of Technology**. I graduated First in Class from Stevens Institute of Technology in May 2022 with a B.S. in Computer Science. I then enrolled in the Accelerated Masters Program at Stevens in which I received an M.S. in Machine Learning by May 2023. After graduation I joined Amazon Web Services (AWS) as a Software Development Engineer, and have been working to help launch a new product in the cost management space. Additionally, my passion for teaching has brought me back to my Alma mater, where I am an Adjunct Professor. In the Fall 2024 semester I am teaching Introduction to Computer Science for incoming Masters students in the department.
 
 [![Linkedin: Rocco](https://img.shields.io/badge/-Rocco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocco-polimeni/)](https://www.linkedin.com/in/rocco-polimeni/)
 [![GitHub Rocco](https://img.shields.io/github/followers/roccopolimen?label=follow&style=social)](https://github.com/roccopolimen)
@@ -49,10 +49,10 @@ My name is **Rocco Polimeni** and I am working as a **SDE Intern @ Amazon Web Se
 
 ---
 
-- 🔭 I’m currently working as **SDE Intern @ Amazon Web Services (AWS)**
+- 🔭 I’m currently working as **SDE I @ Amazon Web Services (AWS)**
 - 🌱 I’m currently learning **Applied and Theoretical Machine Learning** at Stevens Institute of Technology
 - 🚀 I am passionate about **Learning, Teaching others, and Problem Solving using math and computer science**
-- 🏃 Hobbies outside of Tech: **Sports and Fitness (Running, Basketball, Volleyball, etc.), Media (TV Shows, Manga, YouTube)**
+- 🏃 Hobbies outside of Tech: **Sports and Fitness (Running, Basketball, Volleyball, etc.), Media (TV Shows, Manga, Books)**
 - 👯 I’m looking to learn more in the space of applying mathematical and algorithmic thinking to software development.
 - 📫 How to reach me: rpolimen@gmail.com
 
